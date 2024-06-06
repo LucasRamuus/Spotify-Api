@@ -1,4 +1,4 @@
-                                                                          Consumir a API do Spotify em Java 
+Consumir a API do Spotify em Java 
 
 🚀 Tecnologias utilizadas 
 
