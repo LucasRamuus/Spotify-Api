@@ -3,8 +3,11 @@ Consumir a API do Spotify em Java
 🚀 Tecnologias utilizadas 
 
 • Java 17
+
 • Spring Boot
+
 • Spring Cloud Open Feign
+
 • Spotify
 
 Documentação do Spotify : https://developer.spotify.com/documentation/web-api
